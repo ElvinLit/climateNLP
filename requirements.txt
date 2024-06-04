@@ -3,3 +3,7 @@ numpy
 accelerate
 torch
 transformers
+datasets
+pickle
+sklearn
+matplotlib
